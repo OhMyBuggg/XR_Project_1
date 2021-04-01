@@ -1,0 +1,3 @@
+*Terrain_01_low_DefaultMaterial_AlbedoTransparency.png filter=lfs diff=lfs merge=lfs -text
+*Terrain/Texture/Terrain_01_low_DefaultMaterial_Normal.png filter=lfs diff=lfs merge=lfs -text
+*LightingData.asset filter=lfs diff=lfs merge=lfs -text
