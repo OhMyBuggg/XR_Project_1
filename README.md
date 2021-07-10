@@ -1,6 +1,7 @@
 # XR_Project1
 
 ## Introduction
+- Build VR game with Unity.
 
 ## Quick command
 - before doing jobs
